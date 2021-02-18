@@ -1,0 +1,19 @@
+{
+  "name": "memcahced",
+  "version": "1.0.0",
+  "description": "The source code is copied from https://github.com/3rd-Eden/memcached",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gecgithub01.walmart.com:r0w021t/memcahced.git"
+  },
+  "dependencies": {
+    "hashring": "3.2.x",
+    "jackpot": ">=0.0.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
